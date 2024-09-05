@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Supercalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/gamboge</item>
+        <item name="colorPrimaryVariant">@color/gamboge</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Customize other theme attributes here if needed -->
+        <item name="colorSecondary">@color/gamboge</item>
+        <item name="colorSecondaryVariant">@color/gamboge</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+    </style>
+
+    <style name="Theme.Supercalculator" parent="Base.Theme.Supercalculator" />
+</resources>
